@@ -1,6 +1,5 @@
 #this code needs optimization
-#never mind, currently in learning stage
-#Author : [ BurhanKhom009 ] as a Beginner in Python
+#Author : [ BurhanKhom009 ] Beginner in Python
 
 t = int(input());
 loop=1
